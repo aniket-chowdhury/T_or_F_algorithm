@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1499529453 source:d:\aniket-chowdhury\cpp\t_or_f_algorithm\main.cpp
+	<algorithm>
+	<cassert>
+	<iostream>
+	<stdexcept>
+	<exception>
+	<new>
+	<vector>
+	<string>
+	<cstdlib>
+	<iterator>
+	<fstream>
+	<chrono>
+	<sstream>
+	<tuple>
+	<memory>
+	<utility>
+
